@@ -1,0 +1,8 @@
+hello
+some file changes
+good file
+<<<<<<< HEAD
+new file updation change 1
+=======
+change 2
+>>>>>>> public2
